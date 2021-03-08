@@ -1,0 +1,162 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2080 SUPER (ID=0x1e81)
+    Vendor:   NVIDIA
+    VRAM:     8010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.270 seconds
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 2560x1080 144Hz; virtual: 4480x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.704400 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3f5c -> priority: 1 
+  Thread -> id: 2c40 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.231200 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.155200 ms (FindLiveObjects: 0.029400 ms CreateObjectMapping: 0.007300 ms MarkObjects: 0.111400 ms  DeleteObjects: 0.006700 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.006000 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 0.601000 ms (FindLiveObjects: 0.058700 ms CreateObjectMapping: 0.020900 ms MarkObjects: 0.261900 ms  DeleteObjects: 0.258800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.117600 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 1.653600 ms (FindLiveObjects: 0.018400 ms CreateObjectMapping: 0.011900 ms MarkObjects: 0.187900 ms  DeleteObjects: 1.435100 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.414000 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 0.606200 ms (FindLiveObjects: 0.056000 ms CreateObjectMapping: 0.019700 ms MarkObjects: 0.264000 ms  DeleteObjects: 0.265900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.489100 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 1.843900 ms (FindLiveObjects: 0.016800 ms CreateObjectMapping: 0.011300 ms MarkObjects: 0.186100 ms  DeleteObjects: 1.629600 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.374400 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 0.574600 ms (FindLiveObjects: 0.039100 ms CreateObjectMapping: 0.019100 ms MarkObjects: 0.261800 ms  DeleteObjects: 0.254300 ms)
+
+Platform assembly: C:\Users\albad\OneDrive\Desktop\CODE\Course 1\Self Driving Car\Default Windows desktop 64-bit_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.217100 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 1.653800 ms (FindLiveObjects: 0.014300 ms CreateObjectMapping: 0.011900 ms MarkObjects: 0.209900 ms  DeleteObjects: 1.417300 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.392300 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 0.580200 ms (FindLiveObjects: 0.039300 ms CreateObjectMapping: 0.020200 ms MarkObjects: 0.261800 ms  DeleteObjects: 0.258600 ms)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.661500 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 1.716100 ms (FindLiveObjects: 0.013600 ms CreateObjectMapping: 0.011500 ms MarkObjects: 0.240100 ms  DeleteObjects: 1.450700 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.336500 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 0.623100 ms (FindLiveObjects: 0.048000 ms CreateObjectMapping: 0.020000 ms MarkObjects: 0.292700 ms  DeleteObjects: 0.262100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.369300 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 1.692900 ms (FindLiveObjects: 0.014400 ms CreateObjectMapping: 0.012100 ms MarkObjects: 0.210700 ms  DeleteObjects: 1.455500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.332100 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 0.646700 ms (FindLiveObjects: 0.052900 ms CreateObjectMapping: 0.018700 ms MarkObjects: 0.309600 ms  DeleteObjects: 0.265200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.596400 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 1.764000 ms (FindLiveObjects: 0.014700 ms CreateObjectMapping: 0.012000 ms MarkObjects: 0.260100 ms  DeleteObjects: 1.476800 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.364900 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 0.680400 ms (FindLiveObjects: 0.052300 ms CreateObjectMapping: 0.020400 ms MarkObjects: 0.334200 ms  DeleteObjects: 0.273200 ms)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.910700 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 1.897700 ms (FindLiveObjects: 0.014100 ms CreateObjectMapping: 0.011700 ms MarkObjects: 0.265400 ms  DeleteObjects: 1.606300 ms)
+
